@@ -1,12 +1,25 @@
-## Introduction
-This repository contains all assignments, projects, and exams related to my SQL course. It includes various exercises and case studies covering fundamental to advanced SQL concepts.
+# Business Data Management
 
-The repository is structured as follows:
+SQL-based data analysis and database management applied to real business scenarios.
 
-- **Assignments** : Weekly exercises and problem-solving tasks.
+## Featured Project — Pizza Runner Case Study
 
-- **Projects** : A hands-on project applying SQL concepts.
+End-to-end SQL analysis of a food delivery business (based on 8 Week SQL Challenge).
 
-- **Exam** : Practice test.
+**Key analyses:**
+- Pizza metrics & order volume tracking
+- Runner and customer experience analysis  
+- Ingredient optimisation & cost breakdown
 
-This collection serves as a reference for my learning journey in SQL and may also help others looking to enhance their SQL skills.
+📂 [View project files](./Project)
+
+## Repository Structure
+
+| Folder | Contents |
+|---|---|
+| `Project/` | Pizza Runner case study — main deliverable ⭐ |
+| `Assignment/` | Weekly SQL exercises |
+| `Final_Exam/` | SQL final exam submission |
+
+## Tools
+`SQL` `MySQL` `Python` `Jupyter Notebook`
