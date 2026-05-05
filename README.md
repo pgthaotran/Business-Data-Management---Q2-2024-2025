@@ -2,24 +2,32 @@
 
 SQL-based data analysis and database management applied to real business scenarios.
 
+---
+
 ## Featured Project — Pizza Runner Case Study
 
-End-to-end SQL analysis of a food delivery business (based on 8 Week SQL Challenge).
+End-to-end SQL analysis of a food delivery business, based on the [8 Week SQL Challenge](https://8weeksqlchallenge.com/case-study-2/).
 
-**Key analyses:**
+**Analyses covered:**
 - Pizza metrics & order volume tracking
-- Runner and customer experience analysis  
+- Runner and customer experience
 - Ingredient optimisation & cost breakdown
 
-📂 [View project files](./Project)
+📂 [View project](./project)
+
+---
 
 ## Repository Structure
 
 | Folder | Contents |
 |---|---|
-| `Project/` | Pizza Runner case study — main deliverable ⭐ |
-| `Assignment/` | Weekly SQL exercises |
-| `Final_Exam/` | SQL final exam submission |
+| `project/` | Pizza Runner case study ⭐ |
+| `python-mysql-integration/` | Connecting and querying MySQL databases using Python |
+| `sql-joins-online-database/` | SQL joins and online database operations |
+| `sql-practice/` | SQL practice files |
+
+---
 
 ## Tools
-`SQL` `MySQL` `Python` `Jupyter Notebook`
+
+`SQL` · `MySQL` · `Python` · `Jupyter Notebook`
